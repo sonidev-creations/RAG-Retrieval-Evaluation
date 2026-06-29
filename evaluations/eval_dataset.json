@@ -1,0 +1,302 @@
+[
+  {
+    "query_id": "q1",
+    "question": "What poses a big challenge to the financial services industry?",
+    "gold_chunk_text": "Fraud detection and prevention pose a big challenge to the financial services industry.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q2",
+    "question": "Where do banks typically invest significant time and resources?",
+    "gold_chunk_text": "Banks and financial institutions typically invest significant time and resources on combating fraud and financial crime.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q3",
+    "question": "What software solution is a key component of financial crime programs?",
+    "gold_chunk_text": "A key component of these programs is the software solution used to monitor, detect, and report suspicious or fraudulent activity within financial institutions.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q4",
+    "question": "What does this white paper highlight regarding fraud control?",
+    "gold_chunk_text": "This paper highlights the critical factors that must be considered in selecting the right fraud solution for fraud control.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q5",
+    "question": "How are banks responding to rising customer demand for digital services?",
+    "gold_chunk_text": "In response to the rising customer demand, banks and financial institutions are investing heavily in enabling digital services through multiple channels.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q6",
+    "question": "What has the expansion of the attack surface created?",
+    "gold_chunk_text": "This has expanded the attack surface and created new vulnerabilities that fraudsters exploit by employing sophisticated fraud tactics.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q7",
+    "question": "Why are banks' current fraud detection solutions failing?",
+    "gold_chunk_text": "Banks' fraud detection and prevention solutions, on the other hand, are unable to keep pace with fraudsters' shifting techniques as evidenced by the rapid rise in cybercrime in the financial services industry.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q8",
+    "question": "What happens if banks fail to enforce proper business conduct and internal controls?",
+    "gold_chunk_text": "In addition, enforcing proper business conduct and ensuring adequate internal supervisory procedures and systems to control fraud are key imperatives for banks, failing which they are liable to be fined heavily (some such instances have been listed below).",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q9",
+    "question": "Why was Citigroup fined by the Securities and Exchange Commission?",
+    "gold_chunk_text": "The Citigroup was fined over $10 million by the Securities and Exchange Commission (SEC) over inaccurate books and records, inadequate trader supervision, and poor internal accounting controls.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q10",
+    "question": "How much did Citigroup lose due to inadequate controls for verifying invoices?",
+    "gold_chunk_text": "Lack of adequate controls to verify invoices and documents submitted by a borrower resulted in Citigroup losing around $475 million.¹",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q11",
+    "question": "How many individuals did the US Department of Justice charge in the money laundering scheme?",
+    "gold_chunk_text": "The US Department of Justice has charged 15 individuals in a multi-million dollar international money laundering and fraud scheme.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q12",
+    "question": "How were bank accounts used to perpetrate the $94 million fraud?",
+    "gold_chunk_text": "Bank accounts opened in the names of shell corporations were used to perpetrate the fraud of approximately $94 million.²",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q13",
+    "question": "Why did Wells Fargo receive a civil penalty of $2.09 billion?",
+    "gold_chunk_text": "The US Department of Justice has imposed a civil penalty of $2.09 billion on Wells Fargo under the Financial Institutions, Reform, Recovery, and Enforcement Act for originating and selling mortgage loans containing misstated income.³",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q14",
+    "question": "What must financial institutions change regarding their approach to fraud detection?",
+    "gold_chunk_text": "Clearly, financial institutions must make a step change in the way they approach fraud detection and prevention.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q15",
+    "question": "What kind of mindset change is required to embrace risk?",
+    "gold_chunk_text": "What is required is a change in the mindset to embrace risk by adopting next-gen solutions based on Big Data and analytics, artificial intelligence (AI), and machine learning (ML) algorithms besides establishing and enforcing strong supervisory controls.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q16",
+    "question": "What do real-time detection capabilities enable banks to do?",
+    "gold_chunk_text": "Equipped with real-time detection capabilities, such solutions will enable banks to respond quickly to suspicious activities, proactively prevent fraud, and control and manage financial risk more efficiently.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q17",
+    "question": "Do all market solutions incorporate out-of-band capability or machine learning?",
+    "gold_chunk_text": "However, not all solutions available in the market incorporate out-of-band (OOB) capability or utilize ML and AI technologies.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q18",
+    "question": "What are banks moving away from in fraud prevention?",
+    "gold_chunk_text": "Banks are moving away from standalone fraud detection and prevention systems to enterprise-wide predictive risk assessment frameworks that incorporate analytics and real-time detection capabilities.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q19",
+    "question": "What type of data repositories are banks establishing?",
+    "gold_chunk_text": "Banks are establishing centralized data repositories with data spanning customer accounts and transaction data from multiple channels and product systems as well as external sources such as social data.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q20",
+    "question": "How are banks building comprehensive customer profiles?",
+    "gold_chunk_text": "By leveraging high performance computing technologies, banks are analyzing massive amounts of data in real time and building comprehensive profiles of customers that can be utilized for investigation of money laundering and fraud as well as for surveillance operations.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q21",
+    "question": "What kind of analysis is gaining traction for real-time fraud identification?",
+    "gold_chunk_text": "Adoption of fraud solutions that enable in depth analysis of internal and external data for real time fraud identification is gaining traction.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q22",
+    "question": "What techniques are used to detect underlying anomalies in data?",
+    "gold_chunk_text": "Entity analytics and graph visualization techniques are used to detect underlying patterns and anomalies that exist in data.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q23",
+    "question": "How is rule-based fraud identification being augmented?",
+    "gold_chunk_text": "Rule based fraud identification is being augmented by sophisticated predictive fraud models fueled by analytics on enormous amounts of data.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q24",
+    "question": "What techniques are being leveraged to detect hidden frauds?",
+    "gold_chunk_text": "To enhance the predictive capabilities of the model, advanced analytical techniques such as pattern analysis to identify anomalous behavior and link analysis to detect hidden frauds are being leveraged.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q25",
+    "question": "Why are banks leveraging enterprise case management?",
+    "gold_chunk_text": "Banks are leveraging enterprise case management to improve the efficiency of investigation workflows.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q26",
+    "question": "What tools are being seen for optimal business processes and decision-making?",
+    "gold_chunk_text": "Data visualization tools for faster decision-making and robotic automation for optimal business processes are other common trends being seen.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q27",
+    "question": "What type of authentication mechanisms are being adopted that do not impact customer experience?",
+    "gold_chunk_text": "Innovative, secure authentication mechanisms that do not impact customer experience are being adopted.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q28",
+    "question": "What are examples of techniques used to seamlessly verify customers' identity?",
+    "gold_chunk_text": "Banks are employing a variety of authentication mechanisms that seamlessly verify customers' identity through multiple techniques such as voice and speech analytics, desktop analytics, and so on.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q29",
+    "question": "What is a key enabler in ensuring effective detection and reporting of fraudulent activities?",
+    "gold_chunk_text": "The core solution engine is a key enabler in ensuring effective detection and reporting of fraudulent activities to regulators.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q30",
+    "question": "Why does choosing the right fraud solution vendor assume importance?",
+    "gold_chunk_text": "Thus choosing the right fraud solution vendor after a thorough evaluation of critical organizational factors and business requirements assumes importance.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q31",
+    "question": "What is a key capability regarding past records under Functional coverage?",
+    "gold_chunk_text": "Historical data migration",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q32",
+    "question": "What capability is required for global operations under Functional coverage?",
+    "gold_chunk_text": "Multi-geography support",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q33",
+    "question": "What Technology coverage capability ensures the system can handle growth?",
+    "gold_chunk_text": "Scalability and performance",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q34",
+    "question": "What capability under Market potential determines the financial arrangement?",
+    "gold_chunk_text": "Pricing model",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q35",
+    "question": "What must a holistic assessment map vendor capabilities to?",
+    "gold_chunk_text": "In our view, a holistic assessment must map vendors' capabilities to the capabilities listed in Table 1 and evaluate them against the key criteria shown in Table 2.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q36",
+    "question": "What is the rationale for Organizational alignment?",
+    "gold_chunk_text": "Suitability of the organization and its strategies, policies and systems to the bank's landscape",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q37",
+    "question": "How is User experience assessed?",
+    "gold_chunk_text": "Demonstration and questionnaire",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q38",
+    "question": "What is the weightage given to Requirement fitment?",
+    "gold_chunk_text": "30",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q39",
+    "question": "What does Total cost of ownership encompass over a five-year period?",
+    "gold_chunk_text": "Total investment needed for the software, hardware, hosting, support, maintenance and updates over a five-year period.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q40",
+    "question": "How should banks define the criteria for selecting the right vendor?",
+    "gold_chunk_text": "Individual banks must define the criteria for selecting the right vendor based on their specific organizational priorities.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q41",
+    "question": "What ensures a holistic assessment of vendors' capabilities?",
+    "gold_chunk_text": "Assigning weightages to important product features and functionalities ensures a holistic assessment of vendors' capabilities.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q42",
+    "question": "What facilitates the selection of the right product by ranking different vendors?",
+    "gold_chunk_text": "Quantitative scoring of qualitative information helps banks rank different vendors' products and facilitates the selection of the right product.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q43",
+    "question": "What are the myriad benefits of implementing a next-generation fraud solution?",
+    "gold_chunk_text": "The implementation of a next generation fraud solution will deliver myriad benefits such as reduced total cost of ownership, enhanced staff productivity, and visibility into fraud exposure, besides helping firms to protect their reputation and brand.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q44",
+    "question": "Will fraudsters stop finding new ways to commit fraud?",
+    "gold_chunk_text": "Fraudsters, however, will always find new ways to commit fraud;",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q45",
+    "question": "Why is selecting the right fraud solution a critical component of larger programs?",
+    "gold_chunk_text": "selecting the right fraud solution thus becomes a critical component of the larger financial crime compliance program.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q46",
+    "question": "What must financial institutions adopt to reap substantial returns on investment?",
+    "gold_chunk_text": "Financial institutions must therefore adopt solutions capable of handling emerging fraud trends to reap substantial returns on investment.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q47",
+    "question": "What group does Anirudha Jadhav consult for at TCS?",
+    "gold_chunk_text": "Anirudha Jadhav is a domain consultant in the Financial Crime Compliance (FCC) group of TCS Banking, Financial Services, and Insurance business unit.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q48",
+    "question": "How many years of industry experience does Anirudha Jadhav have?",
+    "gold_chunk_text": "With over 12 years of industry experience, he is responsible for thought leadership, strategy consulting, solution design, and innovation in the area of FCC for several of TCS' BFSI clients in North America.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q49",
+    "question": "What degree does Anirudha Jadhav hold?",
+    "gold_chunk_text": "He holds a Bachelor's degree in Computer Science Engineering from Shri Guru Gobind Singhji College of Engineering, Swami Ramanand Thirth Marathwada University, Maharashtra, India.",
+    "source_doc": "fraud.pdf"
+  },
+  {
+    "query_id": "q50",
+    "question": "What kind of portfolio does TCS offer globally?",
+    "gold_chunk_text": "TCS offers a consulting-led, integrated portfolio of IT and IT-enabled, infrastructure, engineering and assurance services.",
+    "source_doc": "fraud.pdf"
+  }
+]

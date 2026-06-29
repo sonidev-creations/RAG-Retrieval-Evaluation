@@ -1,0 +1,219 @@
+[
+  {
+    "id": "fraud.pdf::p1::c0",
+    "document": "fraud.pdf",
+    "page": 1,
+    "text": "Fighting Fraud in Financial \nServices: A Guide to \nChoosing the Right \nTechnology Solution \nAbstract\nFraud detection and prevention pose a big \nchallenge to the nancial services industry. Banks and nancial institutions typically \ninvest signicant time and resources on \ncombating fraud and nancial crime. A key \ncomponent of these programs is the software \nsolution used to monitor, detect, and report \nsuspicious or fraudulent activity within \nnancial institutions.",
+    "chunk_index": 0
+  },
+  {
+    "id": "fraud.pdf::p1::c1",
+    "document": "fraud.pdf",
+    "page": 1,
+    "text": "This paper highlights \nthe critical factors that must be considered in \nselecting the right fraud solution for fraud \ncontrol. WHITE PAPER",
+    "chunk_index": 1
+  },
+  {
+    "id": "fraud.pdf::p2::c2",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "The Evolving Fraud Landscape\nIn response to the rising customer demand, banks and nancial \ninstitutions are investing heavily in enabling digital services \nthrough multiple channels. This has expanded the attack surface \nand created new vulnerabilities that fraudsters exploit by \nemploying sophisticated fraud tactics.",
+    "chunk_index": 2
+  },
+  {
+    "id": "fraud.pdf::p2::c3",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "Banks’ fraud detection and prevention solutions, on the other \nhand, are unable to keep pace with fraudsters’ shifting \ntechniques as evidenced by the rapid rise in cybercrime in the \nnancial services industry. In addition, enforcing proper \nbusiness conduct and ensuring adequate internal supervisory \nprocedures and systems to control fraud are key imperatives for \nbanks, failing which they are liable to be ned heavily (some \nsuch instances have been listed below).",
+    "chunk_index": 3
+  },
+  {
+    "id": "fraud.pdf::p2::c4",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "n\nThe Citigroup was ned over $10 million by the Securities \nand Exchange Commission (SEC) over inaccurate books and \nrecords, inadequate trader supervision, and poor internal \naccounting controls. Lack of adequate controls to verify \ninvoices and documents submitted by a borrower resulted in \n1\nCitigroup losing around $475 million. n\nThe US Department of Justice has charged 15 individuals in a \nmulti-million dollar international money laundering and fraud \nscheme.",
+    "chunk_index": 4
+  },
+  {
+    "id": "fraud.pdf::p2::c5",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "Bank accounts opened in the names of shell \ncorporations were used to perpetrate the fraud of \n2\napproximately $94 million. n\nThe US Department of Justice has imposed a civil penalty of \n$2.09 billion on Wells Fargo under the Financial Institutions, \nReform, Recovery, and Enforcement Act for originating and \n3 \nselling mortgage loans containing misstated income. Clearly, nancial institutions must make a step change in the \nway they approach fraud detection and prevention.",
+    "chunk_index": 5
+  },
+  {
+    "id": "fraud.pdf::p2::c6",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "What is \nrequired is a change in the mindset – to embrace risk by \nadopting next-gen solutions based on Big Data and analytics, \narticial intelligence (AI), and machine learning (ML) algorithms \nbesides establishing and enforcing strong supervisory controls. Equipped with real-time detection capabilities, such solutions \nwill enable banks to respond quickly to suspicious activities, \nproactively prevent fraud, and control and manage nancial risk \nmore efciently.",
+    "chunk_index": 6
+  },
+  {
+    "id": "fraud.pdf::p2::c7",
+    "document": "fraud.pdf",
+    "page": 2,
+    "text": "However, not all solutions available in the \nmarket incorporate out-of-band (OOB) capability or utilize ML \nand AI technologies. WHITE PAPER",
+    "chunk_index": 7
+  },
+  {
+    "id": "fraud.pdf::p3::c8",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "WHITE PAPER\nEmerging Trends in Fraud Detection and \nPrevention\nBanks are moving away from standalone fraud detection and \nprevention systems to enterprise-wide predictive risk \nassessment frameworks that incorporate analytics and real-time \ndetection capabilities.",
+    "chunk_index": 8
+  },
+  {
+    "id": "fraud.pdf::p3::c9",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "Some emerging trends driving next-gen \napproaches to fraud detection and prevention include: \nCentralized data repository\nBanks are establishing centralized data repositories with data \nspanning customer accounts and transaction data from multiple \nchannels and product systems as well as external sources such \nas social data.",
+    "chunk_index": 9
+  },
+  {
+    "id": "fraud.pdf::p3::c10",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "By leveraging high performance computing \ntechnologies, banks are analyzing massive amounts of data in \nreal time and building comprehensive proles of customers that \ncan be utilized for investigation of money laundering and fraud \nas well as for surveillance operations. Real-time detection\nAdoption of fraud solutions that enable in depth analysis of \ninternal and external data for real time fraud identication is \ngaining traction.",
+    "chunk_index": 10
+  },
+  {
+    "id": "fraud.pdf::p3::c11",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "Entity analytics and graph visualization \ntechniques are used to detect underlying patterns and \nanomalies that exist in data. Predictive fraud models\nRule based fraud identication is being augmented by \nsophisticated predictive fraud models fueled by analytics on \nenormous amounts of data. To enhance the predictive \ncapabilities of the model, advanced analytical techniques such \nas pattern analysis to identify anomalous behavior and link \nanalysis to detect hidden frauds are being leveraged.",
+    "chunk_index": 11
+  },
+  {
+    "id": "fraud.pdf::p3::c12",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "Enterprise case management\nBanks are leveraging enterprise case management to improve \nthe efciency of investigation workows. Data visualization tools \nfor faster decision-making and robotic automation for optimal \nbusiness processes are other common trends being seen. Next-gen authentication mechanisms\nInnovative, secure authentication mechanisms that do not \nimpact customer experience are being adopted.",
+    "chunk_index": 12
+  },
+  {
+    "id": "fraud.pdf::p3::c13",
+    "document": "fraud.pdf",
+    "page": 3,
+    "text": "Banks are \nemploying a variety of authentication mechanisms that \nseamlessly verify customers’ identity through multiple \ntechniques such as voice and speech analytics, desktop \nanalytics, and so on.",
+    "chunk_index": 13
+  },
+  {
+    "id": "fraud.pdf::p4::c14",
+    "document": "fraud.pdf",
+    "page": 4,
+    "text": "WHITE PAPER\nMaking the Right Choice: Evaluating \nSolution Options \nImplementing the right solution is key to nancial crime \nprevention. The core solution engine is a key enabler in \nensuring effective detection and reporting of fraudulent activities \nto regulators. Thus choosing the right fraud solution vendor \nafter a thorough evaluation of critical organizational factors and \nbusiness requirements assumes importance.",
+    "chunk_index": 14
+  },
+  {
+    "id": "fraud.pdf::p4::c15",
+    "document": "fraud.pdf",
+    "page": 4,
+    "text": "Based on our \nexperience of working with multiple global clients, we have \nidentied some key capabilities that must be part of a futuristic \nfraud detection and prevention solution (see Table 1). Evaluation methodology \nIn our view, a holistic assessment must map vendors’ \ncapabilities to the capabilities listed in Table 1 and evaluate \nthem against the key criteria shown in Table 2.",
+    "chunk_index": 15
+  },
+  {
+    "id": "fraud.pdf::p4::c16",
+    "document": "fraud.pdf",
+    "page": 4,
+    "text": "In addition, \nbased on multiple consulting assignments, we have assigned \nweightages to demonstrations (proofs of concept) basis the rst \nfour criteria in Table 2. However, these criteria and the \nweightages can be customized to suit individual bank’s \npriorities.",
+    "chunk_index": 16
+  },
+  {
+    "id": "fraud.pdf::p4::c17",
+    "document": "fraud.pdf",
+    "page": 4,
+    "text": "Category\nSub-Category\nMarket potential\nIndustry experience\nCustomer support and professional services\nPricing model\nTechnology coverage\nSecurity and controls\nScalability and performance  \nInfrastructure compatibility\nProduct and services coverage\nAdvanced analytics\nData and analytics platform\nFunctional coverage\nScenario coverage\nHistorical data migration\nUpgrade methodology\nReporting coverage\nMulti-geography support\nTable 1: Capabilities of an Effective Fraud Solution",
+    "chunk_index": 17
+  },
+  {
+    "id": "fraud.pdf::p5::c18",
+    "document": "fraud.pdf",
+    "page": 5,
+    "text": "WHITE PAPER\nIndividual banks must dene the criteria for selecting the right \nvendor based on their specic organizational priorities. Assigning weightages to important product features and \nfunctionalities ensures a holistic assessment of vendors’ \ncapabilities. Quantitative scoring of qualitative information helps \nbanks rank different vendors’ products and facilitates the \nselection of the right product.",
+    "chunk_index": 18
+  },
+  {
+    "id": "fraud.pdf::p5::c19",
+    "document": "fraud.pdf",
+    "page": 5,
+    "text": "The Bottom Line\nThe implementation of a next generation fraud solution will \ndeliver myriad benets such as reduced total cost of ownership, \nenhanced staff productivity, and visibility into fraud exposure, \nbesides helping rms to protect their reputation and brand. Fraudsters, however, will always nd new ways to commit fraud; \nselecting the right fraud solution thus becomes a critical \ncomponent of the larger nancial crime compliance program.",
+    "chunk_index": 19
+  },
+  {
+    "id": "fraud.pdf::p5::c20",
+    "document": "fraud.pdf",
+    "page": 5,
+    "text": "Choosing the right vendor will require banks to undertake a \ncomprehensive evaluation process spanning current state \nassessment and demonstrations from vendors based on \noperational, domain, and technical requirements to help \nevaluate and identify the vendor to partner with. Financial \ninstitutions must therefore adopt solutions capable of handling \nemerging fraud trends to reap substantial returns on \ninvestment.",
+    "chunk_index": 20
+  },
+  {
+    "id": "fraud.pdf::p5::c21",
+    "document": "fraud.pdf",
+    "page": 5,
+    "text": "Criteria\nRationale\nMode of assessment\nWeightage\nOrganizational \nalignment\nSuitability of the organization and its strategies, \npolicies and systems to the  bank's landscape\nDemonstration and \nquestionnaire\n10\nRequirement\ntment \nAbility to support key functional areas and meet the \nidentied capability requirements\nDemonstration and \nquestionnaire\n30\nUser experience\nQuality and consistency of the user experience\nDemonstration and \nquestionnaire\n10\nTechnical tment\nTechnical capabilities spanning infrastructure \narchitecture, security and compliance, as well as the \nefcacy of service levels and support\nDemonstration and \nquestionnaire\n20\nTotal cost of \nownership \nTotal investment needed for the software, hardware, \nhosting, support, maintenance and updates over a \nve-year period.",
+    "chunk_index": 21
+  },
+  {
+    "id": "fraud.pdf::p5::c22",
+    "document": "fraud.pdf",
+    "page": 5,
+    "text": "Questionnaire\n20\nClient \nreferences/\ntrack record\nInsights from client references\nCalls to clients\n10\nTable 1: Capabilities of an Effective Fraud Solution",
+    "chunk_index": 22
+  },
+  {
+    "id": "fraud.pdf::p6::c23",
+    "document": "fraud.pdf",
+    "page": 6,
+    "text": "WHITE PAPER\nReferences\n1. US Securities and Exchange Commission, Citigroup to Pay More Than $10 Million for \nBooks and Records Violations and Inadequate Controls, Aug 2018, Nov 2018, \nhttps://www.sec.gov/news/press-release/2018-155-0 \n2. US Department of Justice, Fifteen Individuals Charged in Multi-Million Dollar \nInternational Money Laundering and Fraud Scheme, Oct 2017, Nov 2018, \nhttps://www.justice.gov/usao-sd/pr/fteen-individuals-charged-multi-million-dollar-\ninternational-money-laundering-and \n3.",
+    "chunk_index": 23
+  },
+  {
+    "id": "fraud.pdf::p6::c24",
+    "document": "fraud.pdf",
+    "page": 6,
+    "text": "US Department of Justice, Wells Fargo Agrees to Pay $2.09 Billion Penalty for \nAllegedly Misrepresenting Quality of Loans Used in Residential Mortgage-Backed \nSecurities, Aug 2018, Nov 2018, https://www.justice.gov/opa/pr/wells-fargo-agrees-\npay-209-billion-penalty-allegedly-misrepresenting-quality-loans-used",
+    "chunk_index": 24
+  },
+  {
+    "id": "fraud.pdf::p7::c25",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "All content / information present here is the exclusive property of  Tata Consultancy Services Limited (TCS). The content / information contained here is \ncorrect at the time of publishing. No material from here may be copied, modified, reproduced, republished, uploaded, transmitted, posted or distributed \nin any form without prior written permission from TCS.",
+    "chunk_index": 25
+  },
+  {
+    "id": "fraud.pdf::p7::c26",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "Unauthorized use of the content / information appearing here may violate copyright, trademark \nand other applicable laws, and could result in criminal or civil penalties. Copyright © 2018   Tata Consultancy Services Limited\nAbout Tata Consultancy Services Ltd (TCS)\nTata Consultancy Services is an IT services, consulting and business solutions \norganization that delivers real results to global business, ensuring a level of \ncertainty no other firm can match.",
+    "chunk_index": 26
+  },
+  {
+    "id": "fraud.pdf::p7::c27",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "TCS offers a consulting-led, integrated portfolio \nof IT and IT-enabled, infrastructure, engineering and assurance services. This is \nTM\ndelivered through its unique Global Network Delivery Model , recognized as the \nbenchmark of excellence in software development. A part of the Tata Group, \nIndia’s largest industrial conglomerate, TCS has a global footprint and is listed on \nthe National Stock Exchange and Bombay Stock Exchange in India.",
+    "chunk_index": 27
+  },
+  {
+    "id": "fraud.pdf::p7::c28",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "For more information, visit us at www.tcs.com\nTCS Design Services I M I 11 I 18\nAbout The Author\nAnirudha Jadhav\nAnirudha Jadhav is a domain \nconsultant in the Financial Crime \nCompliance (FCC) group of TCS' \nBanking, Financial Services, and \nInsurance business unit. With \nover 12 years of industry \nexperience, he is responsible for \nthought leadership, strategy \nconsulting, solution design, and \ninnovation in the area of FCC for \nseveral of TCS' BFSI clients in \nNorth America.",
+    "chunk_index": 28
+  },
+  {
+    "id": "fraud.pdf::p7::c29",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "Jadhav is also \nresponsible for building solutions, \nframeworks, consulting, and pre-\nsales support. He holds a \nBachelor's degree in Computer \nScience Engineering from Shri \nGuru Gobind Singhji College of \nEngineering, Swami Ramanand \nThirth Marathwada University, \nMaharashtra, India.",
+    "chunk_index": 29
+  },
+  {
+    "id": "fraud.pdf::p7::c30",
+    "document": "fraud.pdf",
+    "page": 7,
+    "text": "Contact\nVisit the\n page on \n Banking & Financial Services\nwww.tcs.com\nEmail: bfs.marketing@tcs.com \nBlog: Drive Governance \nSubscribe to TCS White Papers\nTCS.com RSS: http://www.tcs.com/rss_feeds/Pages/feed.aspx?f=w\nFeedburner: http://feeds2.feedburner.com/tcswhitepapers\nWHITE PAPER",
+    "chunk_index": 30
+  }
+]
