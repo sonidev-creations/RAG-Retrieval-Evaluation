@@ -444,7 +444,7 @@ evaluations/
 The following screenshot shows the successful execution of the evaluation pipeline (`run_metrics.py`) and the generated outputs.
 
 <p align="center">
-  <img src="images/Person A ouput.png" alt="Evaluation Output" width="900">
+  <img src="images/Person A ouput.png.png" alt="Evaluation Output" width="900">
 </p>
 
 ---
