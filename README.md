@@ -130,14 +130,14 @@ MRR = 1 / Rank
 
 **Example:**
 
-┌──────────────────────────┬────────┐
-│ Correct Chunk Position   │  MRR   │
-├──────────────────────────┼────────┤
-│ Rank 1                   │  1.0   │
-├──────────────────────────┼────────┤
-│ Rank 2                   │  0.5   │
-└──────────────────────────┴────────┘
-
+```text
++------------------------+------+
+| Correct Chunk Position | MRR  |
++------------------------+------+
+| Rank 1                 | 1.0  |
+| Rank 2                 | 0.5  |
++------------------------+------+
+```
 ---
 
 ### nDCG@10
@@ -202,6 +202,7 @@ No manual calculations are required.
 
 Contains per-query evaluation results. Columns include:
 
+```text
 ┌────────────────────────┬──────────────────────────────────────────────────────────────┐
 │ Column                 │ Description                                                  │
 ├────────────────────────┼──────────────────────────────────────────────────────────────┤
@@ -229,7 +230,7 @@ Contains per-query evaluation results. Columns include:
 ├────────────────────────┼──────────────────────────────────────────────────────────────┤
 │ Retrieved Text         │ Text content of the retrieved chunks                         │
 └────────────────────────┴──────────────────────────────────────────────────────────────┘
-
+```
 ---
 
 ## `summary.txt`
@@ -443,7 +444,7 @@ evaluations/
 The following screenshot shows the successful execution of the evaluation pipeline (`run_metrics.py`) and the generated outputs.
 
 <p align="center">
-  <img src="images/Person A output.png" alt="Evaluation Output" width="900">
+  <img src="mini-rag-main/evaluations/images/Person A output.png" alt="Evaluation Output" width="900">
 </p>
 
 ---
