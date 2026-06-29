@@ -79,8 +79,8 @@ Each record contains:
 ```json
 {
   "query_id": "q1",
-  "question": "...",
-  "gold_chunk_text": "...",
+  "question": "What poses a big challenge to the financial services industry?",
+  "gold_chunk_text": "Fraud detection and prevention pose a big challenge to the financial services industry.",
   "source_doc": "fraud.pdf"
 }
 ```
@@ -131,12 +131,12 @@ MRR = 1 / Rank
 **Example:**
 
 ```text
-+------------------------+------+
+---------------------------------
 | Correct Chunk Position | MRR  |
-+------------------------+------+
+---------------------------------
 | Rank 1                 | 1.0  |
 | Rank 2                 | 0.5  |
-+------------------------+------+
+---------------------------------
 ```
 ---
 
@@ -444,7 +444,7 @@ evaluations/
 The following screenshot shows the successful execution of the evaluation pipeline (`run_metrics.py`) and the generated outputs.
 
 <p align="center">
-  <img src="mini-rag-main/evaluations/images/Person A output.png" alt="Evaluation Output" width="900">
+  <img src="mini-rag-main/evaluations/images/Person A ouput.png" alt="Evaluation Output" width="900">
 </p>
 
 ---
